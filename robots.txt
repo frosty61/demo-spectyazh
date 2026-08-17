@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frosty61.github.io/demo-spectyazh/sitemap.xml
